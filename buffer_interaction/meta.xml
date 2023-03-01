@@ -1,0 +1,23 @@
+<meta>
+
+    <script type="server" src="library/server/main.lua" protected="true"/>
+    <script type="client" src="library/client/main.lua" protected="true" />
+    <script type="client" src="library/client/utils.lua" protected="true" />
+    <script type="client" src="library/client/interactions.lua" protected="true" />
+    
+    <file src="assets/fx/edge.fx" />
+    <file src="assets/fx/wall.fx" />
+    <file src="assets/fx/wall_mrt.fx" />
+
+    <file src="assets/icons/close.png" />
+    <file src="assets/icons/revistar.png" />
+    <file src="assets/icons/comprimento.png" />
+    <file src="assets/icons/atm.png" />
+    
+    <file src="assets/fonts/RobotoCondensed-Regular.ttf" />
+    <file src="assets/fonts/RobotoCondensed-Bold.ttf" />
+
+    <min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903" />
+	<oop>true</oop>
+
+</meta>

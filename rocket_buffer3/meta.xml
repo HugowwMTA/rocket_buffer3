@@ -1,0 +1,10 @@
+<meta>
+    <info author="HugowwDev" name="rocket_buffer3" version="0.0.1" type="misc" />
+
+    <!-- System -->
+    <script src="buffer_bank.lua" type="server" />     
+
+    <!-- Config -->
+    <script src="buffer_shared.lua" type="shared" cache="false" />     
+
+</meta>    
